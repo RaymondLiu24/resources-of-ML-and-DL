@@ -51,10 +51,19 @@
   - 吴恩达老师的机器学习课程个人笔记
 
 ## Book Notes
-- [Doraemonzzz/Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data)
-  - **Learning from data**（林軒田機器學習課程參考書目）
-- [fengdu78/machine_learning_beginner/deep-learning-with-python-notebooks](https://github.com/fengdu78/machine_learning_beginner/tree/master/deep-learning-with-python-notebooks)
-  - **Deep Leaning with Python**（超詳細基於Keras的深度學習教材）
+- **Python Data Science Handbook**
+  - [jakevdp/PythonDataScienceHandbook
+](https://github.com/jakevdp/PythonDataScienceHandbook)
+- **统计学习方法**
+  - [Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)
+    - 手写实现李航《统计学习方法》书中全部算法
+  - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
+    - 《统计学习方法》的代码实现
+- **Learning from data** (林軒田機器學習課程參考書目)
+  - [Doraemonzzz/Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data)
+- **Deep Leaning with Python**
+  - [fengdu78/machine_learning_beginner/deep-learning-with-python-notebooks](https://github.com/fengdu78/machine_learning_beginner/tree/master/deep-learning-with-python-notebooks)
+    - 超詳細基於Keras的深度學習教材
 
 ## Competition
 
