@@ -1,29 +1,92 @@
-# my-ai-learning-roadmap
+# AI-learning-resources-on-GitHub
 
-### Python Data Science Handbook
-- [jpliu24/PythonDataScienceHandbook](https://github.com/jpliu24/PythonDataScienceHandbook)
 
-### 100-Days-Of-ML-Code
+
+## Deep Learning Framework
+
+### Tensorflow
+#### Tutorial
+- [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+  - 詳細的ML、NN範例和教學
+- [osforscience/TensorFlow-Course](https://github.com/osforscience/TensorFlow-Course)
+  - 簡略的ML、NN範例和教學
+#### Model Templates
+- [tensorflow/models](https://github.com/tensorflow/models)
+  - Models and examples built with TensorFlow
+#### Document
+- [jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
+  - 谷歌全新开源人工智能系统TensorFlow官方文档中文版
+
+### Keras
+- [erhwenkuo/deep-learning-with-keras-notebooks](https://github.com/erhwenkuo/deep-learning-with-keras-notebooks)
+  - Keras 詳細中文教學、範例
+
+### PyTorch
+- [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+  - PyTorch Tutorial for Deep Learning Researchers
+- [L1aoXingyu/pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)
+  - pytorch tutorial for beginners
+
+## Machine Learning Algorithm
+- [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms)
+  - Minimal and clean examples of machine learning algorithms implementations
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
   - 機器學習基礎概念、算法簡略圖解及解釋
   - 中文版：[MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+- [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
+  - 蠻詳細的機器學習算法解釋及範例
 
-### 李航《统计学习方法》
+## Integrated Tutorial and Examples
+- [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+  - Essential Cheat Sheets for deep learning and machine learning researchers
+- [GokuMohandas/practicalAI](https://github.com/GokuMohandas/practicalAI)
+  - 非常詳細的ML、DL算法教學和代碼
+  - 中文版：[MLEveryday/practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn)
+- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks#keras-tutorials)
+  - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap)
+  - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 
-- [jpliu24/Statistical-Learning-Method_Code](https://github.com/jpliu24/Statistical-Learning-Method_Code) (fork)
-  - 參考課件：[fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
+## Cource Notes
+- [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
+  - 吴恩达老师的深度学习课程笔记及资源
+- [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
+  - 吴恩达老师的机器学习课程个人笔记
 
-**10种统计学习方法特点的概括总结**
+## Book Notes
+- **Python Data Science Handbook**
+  - [jakevdp/PythonDataScienceHandbook
+](https://github.com/jakevdp/PythonDataScienceHandbook)
+- **统计学习方法**
+  - [Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)
+    - 手写实现李航《统计学习方法》书中全部算法
+  - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
+    - 《统计学习方法》的代码实现
+- **Learning from data** (林軒田機器學習課程參考書目)
+  - [Doraemonzzz/Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data)
+- **Deep Leaning with Python**
+  - [fengdu78/machine_learning_beginner/deep-learning-with-python-notebooks](https://github.com/fengdu78/machine_learning_beginner/tree/master/deep-learning-with-python-notebooks)
+    - 超詳細基於Keras的深度學習教材
 
- 方法 | 适用问题 | 模型特点 | 模型类型 | 学习策略 | 学习的损失函数 | 学习算法
- --- | --- | --- | --- | --- | --- | ---
-感知机                | 二类分类        | 分离超平面                                 | 判别模型     | 极小化误分点到超平面距离            | 误分点到超平面距离 | 随机梯度下降
-K近邻法               | 多类分类，回归   | 特征空间，样本点                            | 判别模型     | ___                             | ___             | ___
-朴素贝叶斯             | 多类分类        | 特征与类别的联合概率分布区，条件独立假设        | 生成模型     | 极大似然估计，极大后验概率估计       | 对数似然损失      | 概率计算公式，EM算法
-决策树                | 多类分类，回归   | 分类树，回归树                              | 判别模型     | 正则化的极大似然估计               | 对数似然损失      | 特征选择，生成，剪枝
-逻辑斯蒂回归与最大熵模型 | 多类分类        | 特征条件下类别的条件概率分布，对数线性模型       | 判别模型     | 极大似然估计，正则化的极大似然估计   | 逻辑斯蒂损失      | 改进的迭代尺度算法，梯度下降，拟牛顿法
-支持向量机             | 二类分类        | 分离超平面，核技巧                           | 判别模型     | 极小化正则化的合页损失，软间隔最大化 | 合页损失         | 序列最小最优化算法(SMO)
-提升方法               | 二类分类       | 弱分类器的线形组合                            | 判别模型     | 极小化加法模型的指数损失           | 指数损失         | 前向分布加法算法
-EM算法                | 概率模型参数估计 | 含隐变量概率模型                             | ___         | 极大似然估计，极大后验概率估计      | 对数似然损失      | 迭代算法
-隐马尔可夫模型          | 标注           | 观测序列与状态序列的联合概率分布模型            | 生成模型     | 极大似然估计，极大后验概率估计      | 对数似然损失      | 概率计算公式，EM算法
-条件随机场             | 标注           | 状态序列条件下观测序列的条件概率分布，对数线性模型 | 判别模型     | 极大似然估计，正则化极大似然估计    | 对数似然损失      | 改进的迭代尺度算法，梯度下降，拟牛顿法
+## Competition
+
+- [iphysresearch/DataSciComp](https://github.com/iphysresearch/DataSciComp)
+  - A collection of popular Data Science Competitions
+- [Smilexuhc/Data-Competition-TopSolution](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+  - Data competition Top Solution 数据竞赛Top解决方案开源整理
+
+## Awesome
+### DL & ML
+- [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
+- [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [osforscience/deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean)
+- [howie6879/mlhub123](https://github.com/howie6879/mlhub123)
+  - 机器学习&深度学习网站资源汇总（Machine Learning Resources） 
+
+### Computer Vision
+- [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
+
+### Docker
+- [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice)
