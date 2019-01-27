@@ -1,9 +1,13 @@
 # my-ai-learning-roadmap
 
+### Python Data Science Handbook
+
+- [jpliu24/PythonDataScienceHandbook](https://github.com/jpliu24/PythonDataScienceHandbook)
+
 ### 李航《统计学习方法》
 
-- [jpliu24/Statistical-Learning-Method_Code ](https://github.com/jpliu24/Statistical-Learning-Method_Code) (fork)
-  - 參考課件：[fengdu78/lihang-code](fengdu78/lihang-code)
+- [jpliu24/Statistical-Learning-Method_Code](https://github.com/jpliu24/Statistical-Learning-Method_Code) (fork)
+  - 參考課件：[fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
 
 **10种统计学习方法特点的概括总结**
 
