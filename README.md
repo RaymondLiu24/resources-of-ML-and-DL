@@ -1,8 +1,12 @@
 # my-ai-learning-roadmap
 
 ### Python Data Science Handbook
-
 - [jpliu24/PythonDataScienceHandbook](https://github.com/jpliu24/PythonDataScienceHandbook)
+
+### 100-Days-Of-ML-Code
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+  - 機器學習基礎概念、算法簡略圖解及解釋
+  - 中文版：[MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 
 ### 李航《统计学习方法》
 
