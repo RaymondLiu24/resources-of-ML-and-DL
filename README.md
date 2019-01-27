@@ -1,7 +1,5 @@
 # AI-learning-resources-on-GitHub
 
-
-
 ## Deep Learning Framework
 
 ### Tensorflow
@@ -75,7 +73,7 @@
 - [Smilexuhc/Data-Competition-TopSolution](https://github.com/Smilexuhc/Data-Competition-TopSolution)
   - Data competition Top Solution 数据竞赛Top解决方案开源整理
 
-## Awesome
+## Awesome*
 ### DL & ML
 - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
