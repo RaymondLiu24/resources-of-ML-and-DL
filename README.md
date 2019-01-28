@@ -1,5 +1,3 @@
-# AI-learning-resources-on-GitHub
-
 ## Deep Learning Framework
 
 ### Tensorflow
