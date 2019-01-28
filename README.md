@@ -83,6 +83,3 @@
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 
-### Docker
-- [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice)
