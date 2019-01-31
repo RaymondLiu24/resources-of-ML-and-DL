@@ -44,8 +44,13 @@
   - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 
 ## Cource Notes
-- [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
-  - 吴恩达老师的深度学习课程笔记及资源
+- **Deep Learning by Andrew Ng**
+  - [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
+    - 吴恩达老师的深度学习课程笔记及资源
+  - [stormstone/deeplearning.ai](https://github.com/stormstone/deeplearning.ai)
+    - deeplearning.ai , By Andrew Ng, All slide and notebook + code and some material.
+  - [JudasDie/deeplearning.ai](https://github.com/JudasDie/deeplearning.ai)
+  - [enggen/Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera)
 - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
   - 吴恩达老师的机器学习课程个人笔记
 
@@ -70,6 +75,10 @@
   - A collection of popular Data Science Competitions
 - [Smilexuhc/Data-Competition-TopSolution](https://github.com/Smilexuhc/Data-Competition-TopSolution)
   - Data competition Top Solution 数据竞赛Top解决方案开源整理
+  
+## Intreview
+
+- .
 
 ## Awesome*
 ### DL & ML
@@ -78,6 +87,8 @@
 - [osforscience/deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean)
 - [howie6879/mlhub123](https://github.com/howie6879/mlhub123)
   - 机器学习&深度学习网站资源汇总（Machine Learning Resources） 
+- [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ### Computer Vision
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
