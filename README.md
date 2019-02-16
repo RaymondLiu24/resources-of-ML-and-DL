@@ -1,6 +1,10 @@
 ## Deep Learning Framework
 
 ### Tensorflow
+
+- [amusi/TensorFlow-From-Zero-To-One](https://github.com/amusi/TensorFlow-From-Zero-To-One)
+  - 学习TensorFlow的参考资料、笔记和代码
+
 #### Tutorial
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
   - 詳細的ML、NN範例和教學
@@ -61,6 +65,12 @@
     - 吴恩达《深度学习》系列课程笔记及代码 http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/
   - [JudasDie/deeplearning.ai](https://github.com/JudasDie/deeplearning.ai)
   - [enggen/Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera)
+- **stanford-cs-229-machine-learning**
+  - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
+    - VIP cheatsheets for Stanford's CS 229 Machine Learning https://stanford.edu/~shervine/teaching/cs-229
+- **stanford-cs-230-deep-learning**
+  - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning)
+    - VIP cheatsheets for Stanford's CS 230 Deep Learning https://stanford.edu/~shervine/teaching/cs-230/
 - **Machine Learning by Andrew Ng**
   - [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
     - 吴恩达老师的机器学习课程个人笔记
@@ -69,6 +79,12 @@
 - **Python Data Science Handbook**
   - [jakevdp/PythonDataScienceHandbook
 ](https://github.com/jakevdp/PythonDataScienceHandbook)
+- **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition**
+  - [官網@O'REILLY](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+  - [ageron/handson-ml2](https://github.com/ageron/handson-ml2)
+    - 書中代碼
+  - [Sklearn 与 TensorFlow 机器学习实用指南](https://hand2st.apachecn.org/#/)
+    - 第一版的中文翻譯
 - **统计学习方法**
   - [Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)
     - 手写实现李航《统计学习方法》书中全部算法
@@ -86,6 +102,7 @@
   - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
     - 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。 http://zh.d2l.ai
 
+
 ## Competition
 - [apachecn/kaggle](https://github.com/apachecn/kaggle)
   - Kaggle 项目实战（教程） = 文档 + 代码 + 视频（欢迎参与）
@@ -97,6 +114,8 @@
 ## Intreview
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
   - 📚 技术面试必备基础知识 https://cyc2018.github.io/CS-Notes
+- [amusi/AI-Job-Recommend](https://github.com/amusi/AI-Job-Recommend)
+  - 国内公司人工智能方向（含机器学习、深度学习、计算机视觉和自然语言处理）岗位的招聘信息（含全职、实习和校招）
 - [imhuay/Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
   - 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 - [apachecn/awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
