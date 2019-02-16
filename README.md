@@ -26,6 +26,9 @@
   - PyTorch Tutorial for Deep Learning Researchers
 - [L1aoXingyu/pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)
   - pytorch tutorial for beginners
+- [MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+  - Build your neural network easy and fast
+  - [PyTorch动态神经网络](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
 
 ## Machine Learning Algorithm
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms)
