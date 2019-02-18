@@ -96,8 +96,8 @@
 - **Learning from data** (林軒田機器學習課程參考書目)
   - [Doraemonzzz/Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data)
 - **Feature Engineering for Machine Learning (Early Release)**
-  -[apachecn/feature-engineering-for-ml-zh](https://github.com/apachecn/feature-engineering-for-ml-zh) 
-    - 📖 [译] 面向机器学习的特征工程 http://fe4ml.apachecn.org
+  - [apachecn/feature-engineering-for-ml-zh](https://github.com/apachecn/feature-engineering-for-ml-zh)
+    - [译] 面向机器学习的特征工程 http://fe4ml.apachecn.org
 - **Deep Leaning with Python**
   - [fengdu78/machine_learning_beginner/deep-learning-with-python-notebooks](https://github.com/fengdu78/machine_learning_beginner/tree/master/deep-learning-with-python-notebooks)
     - 超詳細基於Keras的深度學習教材
