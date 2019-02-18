@@ -83,7 +83,7 @@
   - [jakevdp/PythonDataScienceHandbook
 ](https://github.com/jakevdp/PythonDataScienceHandbook)
 - **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition**
-  - [官網@O'REILLY](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+  - [Official Source@O'REILLY](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
   - [ageron/handson-ml2](https://github.com/ageron/handson-ml2)
     - 書中代碼
   - [Sklearn 与 TensorFlow 机器学习实用指南](https://hand2st.apachecn.org/#/)
@@ -95,7 +95,8 @@
     - 《统计学习方法》的代码实现
 - **Learning from data** (林軒田機器學習課程參考書目)
   - [Doraemonzzz/Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data)
-- **Feature Engineering for Machine Learning (Early Release)**
+- **Feature Engineering for Machine Learning**
+  - [Official Source@O'REILLY](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
   - [apachecn/feature-engineering-for-ml-zh](https://github.com/apachecn/feature-engineering-for-ml-zh)
     - [译] 面向机器学习的特征工程 http://fe4ml.apachecn.org
 - **Deep Leaning with Python**
