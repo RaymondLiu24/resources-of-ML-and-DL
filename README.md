@@ -146,4 +146,5 @@
 ### Computer Vision
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
+- [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
 
