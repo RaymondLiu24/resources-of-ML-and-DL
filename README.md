@@ -145,6 +145,8 @@
   - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
 - [amusi/daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)
   - 计算机视觉/深度学习/机器学习相关方向的论文
+- [zziz/pwc](https://github.com/zziz/pwc)
+  - Papers with code. Sorted by stars.
 
 ### Computer Vision
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
