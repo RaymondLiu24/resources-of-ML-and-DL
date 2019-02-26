@@ -80,8 +80,7 @@
 
 ## Book Notes
 - **Python Data Science Handbook**
-  - [jakevdp/PythonDataScienceHandbook
-](https://github.com/jakevdp/PythonDataScienceHandbook)
+  - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition**
   - [Official Source@O'REILLY](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
   - [ageron/handson-ml2](https://github.com/ageron/handson-ml2)
@@ -98,6 +97,8 @@
 - **Feature Engineering for Machine Learning**
   - [Official Source@O'REILLY](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
   - [apachecn/feature-engineering-for-ml-zh](https://github.com/apachecn/feature-engineering-for-ml-zh)
+    - [alicezheng/feature-engineering-book](https://github.com/alicezheng/feature-engineering-book)
+      - 作者 Alice Zheng 寫的書中代碼
     - [译] 面向机器学习的特征工程 http://fe4ml.apachecn.org
 - **Deep Leaning with Python**
   - [fengdu78/machine_learning_beginner/deep-learning-with-python-notebooks](https://github.com/fengdu78/machine_learning_beginner/tree/master/deep-learning-with-python-notebooks)
@@ -106,6 +107,15 @@
   - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
     - 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。 http://zh.d2l.ai
 
+## Paper List
+- [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+  - The most cited deep learning papers
+- [amusi/daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)
+  - 计算机视觉/深度学习/机器学习相关方向的论文
+- [zziz/pwc](https://github.com/zziz/pwc)
+  - (CVPR, NIPS, ICML, ICCV, ECCV) Papers with code. Sorted by stars.
+- [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
+  - A paper list of object detection using deep learning.
 
 ## Competition
 - [apachecn/kaggle](https://github.com/apachecn/kaggle)
@@ -137,16 +147,12 @@
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [osforscience/deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean)
 - [howie6879/mlhub123](https://github.com/howie6879/mlhub123)
-  - 机器学习&深度学习网站资源汇总（Machine Learning Resources） 
-- [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+  - 机器学习&深度学习网站资源汇总（Machine Learning Resources）
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
-- [src-d/awesome-machine-learning-on-source-code
-](https://github.com/src-d/awesome-machine-learning-on-source-code)
+- [src-d/awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code)
   - Cool links & research papers related to Machine Learning applied to source code (MLonCode)
-- [amusi/daily-paper-computer-vision](https://github.com/amusi/daily-paper-computer-vision)
-  - 计算机视觉/深度学习/机器学习相关方向的论文
-- [zziz/pwc](https://github.com/zziz/pwc)
-  - Papers with code. Sorted by stars.
+- [changwookjun/StudyBook](https://github.com/changwookjun/StudyBook)
+  - Study E-Book(ComputerVision DeepLearning MachineLearning Math NLP Python ReinforcementLearning)
 
 ### Computer Vision
 - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
