@@ -96,9 +96,9 @@
   - [Doraemonzzz/Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data)
 - **Feature Engineering for Machine Learning**
   - [Official Source@O'REILLY](https://learning.oreilly.com/library/view/feature-engineering-for/9781491953235/)
+  - [alicezheng/feature-engineering-book](https://github.com/alicezheng/feature-engineering-book)
+    - 作者 Alice Zheng 寫的書中代碼
   - [apachecn/feature-engineering-for-ml-zh](https://github.com/apachecn/feature-engineering-for-ml-zh)
-    - [alicezheng/feature-engineering-book](https://github.com/alicezheng/feature-engineering-book)
-      - 作者 Alice Zheng 寫的書中代碼
     - [译] 面向机器学习的特征工程 http://fe4ml.apachecn.org
 - **Deep Leaning with Python**
   - [fengdu78/machine_learning_beginner/deep-learning-with-python-notebooks](https://github.com/fengdu78/machine_learning_beginner/tree/master/deep-learning-with-python-notebooks)
