@@ -29,6 +29,8 @@
 - [MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
   - Build your neural network easy and fast
   - [PyTorch动态神经网络](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
+- [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
+  - 中文PyTorch入門書
 
 ## Machine Learning Algorithm
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms)
