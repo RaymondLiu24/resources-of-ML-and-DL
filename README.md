@@ -94,6 +94,8 @@
     - 手写实现李航《统计学习方法》书中全部算法
   - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
     - 《统计学习方法》的代码实现
+  - [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang)
+    - Statistical learning methods, 统计学习方法 [李航] 值得反复读. [笔记, 代码, notebook, 参考文献, Errata]
 - **Learning from data** (林軒田機器學習課程參考書目)
   - [Doraemonzzz/Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data)
 - **Feature Engineering for Machine Learning**
