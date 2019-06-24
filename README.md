@@ -31,6 +31,8 @@
   - [PyTorch动态神经网络](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
   - 中文PyTorch入門書
+- [pytorch-template](https://github.com/victoresque/pytorch-template)
+  - PyTorch deep learning projects made easy.
 
 ## Machine Learning Algorithm
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms)
