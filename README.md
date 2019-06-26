@@ -59,7 +59,7 @@
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap)
   - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 
-## Cource Notes
+## Course Notes
 - **Deep Learning by Andrew Ng**
   - [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)
     - 吴恩达老师的深度学习课程笔记及资源
