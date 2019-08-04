@@ -47,6 +47,8 @@
   - 蠻詳細的機器學習算法解釋及範例
 
 ## Integrated Tutorial and Examples
+- [rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models)
+  - A collection of various deep learning architectures, models, and tips (pytorch & tensorflow)
 - [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
   - Essential Cheat Sheets for deep learning and machine learning researchers
 - [apachecn/AiLearning](https://github.com/apachecn/AiLearning)
